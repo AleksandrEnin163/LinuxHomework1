@@ -9,4 +9,3 @@
    8 mkdir /home/humans
    9 cp /tmp/adam /home/humans/
   10 touch /tmp/evA
-  11 history > homework1.txt
